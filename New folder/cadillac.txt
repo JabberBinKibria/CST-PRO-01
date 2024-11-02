@@ -1,0 +1,18 @@
+        Available cars:
+        1. 2024 Cadillac Escalade
+        MSRP: From $81,895
+        MPG: Up to 21 city / 27 highway
+        Engine: 3.0 L 6-cylinder diesel,
+                6.2 L V8
+        Horsepower: 277 to 682 hp
+        Transmission: 10-speed automatic
+        Towing capacity: 7,000 to 7,700 lbs
+                
+        2.2024  cadillac lyriq
+        MSRP: From $57,195
+        MPG: 95 city / 82 highway
+        Engine : 314 mi battery-only
+        Horsepower : About 220 miles in 32 minutes
+        Transmission : Electric
+
+

@@ -1,0 +1,19 @@
+        Available cars:
+        1. 2024 Bentley Bentayga
+        MSRP: From $203,200
+        MPG: Up to 14 city / 21 highway
+            Engine: 4.0 L V8
+        Horsepower: 542 hp
+        Transmission: 8-speed automatic
+        Dimensions: 202-209″ L x 79″ W x 68-69″ H
+                
+        2. 2024 Bentley Continental GT
+        MSRP: From $242,700
+        MPG: Up to 14 city / 22 highway
+        Engine : 4.0 L V8,
+                6.0 L W12
+        Horsepower :542 to 650 hp
+        Transmission :8-speed automatic
+        Dimensions : 191″ L x 77″ W x 55″ H
+
+

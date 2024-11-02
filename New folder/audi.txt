@@ -1,0 +1,20 @@
+        Available cars:
+        1. AUDI R8
+        MSRP: From $158,600
+        MPG: Up to 14 city / 23 highway
+        Engine: 5.2 L V10
+        Horsepower: 562 to 602 hp
+        Transmission: 7-speed automatic
+        Dimensions: 174″ L x 76″ W x 49″ H
+
+        2. 2024 Audi RS 3
+        MSRP:From $62,300
+        MPG: 19 city / 29 highway
+        Engine :2.5 L 5-cylinder
+        Horsepower :401 hp
+        Transmission :7-speed automatic
+        Dimensions :179″ L x 73″ W x 56″ H
+
+
+
+

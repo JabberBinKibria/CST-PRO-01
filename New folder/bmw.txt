@@ -1,0 +1,19 @@
+            Available cars:
+            1. 2025 BMW M3
+            MSRP: From $76,000
+            MPG: 16 city / 23 highway
+            Engine: 3.0 L 6-cylinder
+            Horsepower: 473 to 523 hp
+            Transmission: 8-speed automatic,
+                        6-speed manual
+            Dimensions: 189″ L x 74″ W x 57″ H
+                
+            2. 2025 BMW X1
+            MSRP:From $40,950
+            MPG: 23 city / 31 highway
+            Engine :2.0 L 4-cylinder
+            Horsepower :241 to 312 hp
+            Transmission :7-speed automatic
+            Dimensions :177″ L x 73″ W x 65″ H
+
+

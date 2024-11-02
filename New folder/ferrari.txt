@@ -1,0 +1,18 @@
+        Available cars:
+        1. 2024 Ferrari Purosangue
+        MSRP: From $393,350
+        MPG: 11 city / 15 highway
+        Horsepower: 715 hp
+        Engine : 6.5 L V12
+        Transmission: 8-speed automati
+        Dimensions: 196″ L x 80″ W x 63″ H
+        
+        2. 2015 Ferrari 458 Spider
+        MSRP: From $259,000 – $294,000
+        MPG: 13 city / 17 highway
+        Engine : 4.5 L V8
+        Horsepower : 570 hp
+        Transmission :7-speed automatic
+        Dimensions: 178″ L x 76″ W x 48″ H
+
+

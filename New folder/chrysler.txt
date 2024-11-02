@@ -1,0 +1,19 @@
+        Available cars:
+        1. 2023 Chrysler 300
+        MSRP: From $36,145
+        MPG: Up to 19 city / 30 highway
+        Horsepower: 213 hp
+        Transmission: Electric
+        Dimensions: 202-209″ L x 79″ W x 68-69″ H
+                
+        2. 2025 Chevrolet Corvette
+        MSRP: From $68,300
+        MPG: Up to 16 city / 24 highway
+        Engine : 3.6 L V6,
+                 5.7 L V8,
+                 6.4 L V8
+        Horsepower :292 to 485 hp
+        Transmission :8-speed automatic
+        Towing capacity :1,000 lbs
+
+

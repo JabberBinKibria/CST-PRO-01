@@ -1,0 +1,20 @@
+        Available cars:
+        1. 2025 Ford Mustang
+        MSRP: From $31,920
+        MPG: Up to 21 city / 32 highway
+        Engine: 2.3 L 4-cylinder,
+                5.0 L V8
+        Horsepower: 315 to 500 hp
+        Transmission: 10-speed automatic,
+                    6-speed manual
+        Dimensions: 189-190″ L x 75-76″ W x 55″ H
+                
+        2. 2006 Ford GT
+        MSRP:From $60,950
+        MPG: 13 city / 31 highway
+        Engine :5.4 L V8
+        Horsepower :550 hp
+        Transmission :6-speed automatic
+        Dimensions :183″ L x 77″ W x 44″ H
+
+
